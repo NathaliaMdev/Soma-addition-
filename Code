@@ -1,0 +1,12 @@
+algoritmo "semnome"
+var
+ n1,n2,S:inteiro
+inicio
+        Escreva("Informe um número:")
+        Leia(n1)
+        Escreva("Informe outro número:")
+        Leia(n2)
+        S <- (n1 + n2)
+        Escreva("O valor da soma é:", S )
+        
+fimalgoritmo
